@@ -1,6 +1,6 @@
 # PHP-Captcha
 
-Two pure php captcha generators which store the captcha code/string in $_SESSION['captcha'].
+Two pure php captcha generators which store the captcha code/string in $_SESSION['captcha']. (No javascript required!)
 To use add an image tag with the src = either 'captcha1.php' or 'captcha2.php'.
 
 
